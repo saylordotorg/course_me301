@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Computer Assisted Data Acquisition** <span id="4"></span> 
 *Current data acquisition methods often employ electronic signal
 transduction and digital recording for subsequent analysis.  Since these

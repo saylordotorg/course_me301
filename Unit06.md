@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Time Measurements** <span id="6"></span> 
 *Throughout history, we have marked time by the motion of objects in the
 sky that indicate the passage of hours, days, months, and years.  More

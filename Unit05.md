@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Measurements of Linear Dimension** <span id="5"></span> 
 *The measurement of length is as fundamental to mechanical engineering
 as it is to everyday life (consider the variety of length scales we use

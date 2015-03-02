@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Dynamic Measurements and Control** <span id="9"></span> 
 *In this unit, you will implement what you learned in previous units to
 make dynamic measurements and use these measurements in order to control

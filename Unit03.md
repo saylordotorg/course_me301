@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Electrical Circuits and Measurements** <span id="3"></span> 
 *A review of* *basic circuit principles and measurements is included
 here for completeness, but you should refer to* [*PHYS102: Introduction

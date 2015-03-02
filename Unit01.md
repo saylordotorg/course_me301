@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME301: Measurement & Experimentation Laboratory"
+course_description: "A detailed introduction to woking in an engineering lab. Topics include scientific notation and statistics, with particular emphasis on graphical data representation, electrical measurements, computer aided data acquisition, mass, time, force, temperature, and displacement."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Scientific Notation, Data Analysis, and Experimental Error**
 <span id="1"></span> 
 *This unit consists of a review of some basic concepts you may remember
