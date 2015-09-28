@@ -182,3 +182,4 @@ the topics covered in previous sections of the course.
 - [Unit 8](https://legacy.saylor.org/me301/Unit08/)
 - [Unit 9](https://legacy.saylor.org/me301/Unit09/)
 - [Unit 10](https://legacy.saylor.org/me301/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME301/ME301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME301/ME301-FinalExam-Answers.html)
