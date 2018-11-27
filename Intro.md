@@ -94,7 +94,7 @@ computer.
  √    Be competent in the English language.  
     
  √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 ### Course Information
 
@@ -111,7 +111,7 @@ following:
 
 -   All About Circuits
 -   [NIST/SEMATECH’s e-Handbook of Statistical Methods
-    (2010)](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)
+    (2010)](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)
 
 **Requirements for Completion:** In order to complete this course, you
 will need to work through each unit and all of its assigned material.

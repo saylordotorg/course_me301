@@ -49,12 +49,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: NIST/SEMATECH’s e-Handbook of Statistical Methods
     (2010)**
     Link: NIST/SEMATECH’s [e-Handbook of Statistical
-    Methods](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)(2010)
+    Methods](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)(2010)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Use this handbook as a resource throughout the
     course.  Peruse the introductory material (“How To Use this
@@ -68,7 +68,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.1 Scientific Notation** <span id="1.1.1"></span> 
 -   **Reading: All About Circuits’ “Scientific Notation”**
     Link: All About Circuits’ “[Scientific
-    Notation](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Notation](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read the page linked above.  You may skim through the
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.2 Significant Figures** <span id="1.1.2"></span> 
 -   **Reading: Connexions: Sunil Kumar Singh’s “Significant Figures”**
     Link: Connexions: Sunil Kumar Singh’s “[Significant
-    Figures](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.2.pdf)”
+    Figures](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.2.pdf)”
     (PDF)  
         
      Also available in:  
@@ -125,11 +125,11 @@ Upon successful completion of this unit, the student will be able to:
     Dr. W. J. Youden’s Experimentation and Measurement**
     Link: National Institute of Standards and Technology (NIST): Dr. W.
     J. Youden’s [“*Experimentation and
-    Measurement*”](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-0.pdf)(PDF)  
+    Measurement*”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-0.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-0-W.J.-Youden.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-0-W.J.-Youden.epub)  
       
      Instructions: Click the link for the PDF *Experimentation and
     Measurement* under “Calibration Related Publications.”  Read
@@ -143,12 +143,12 @@ Upon successful completion of this unit, the student will be able to:
     “Measures of Location”**
     Link: NIST/SEMATECH’s e-Handbook of Statistical Methods (2010):
     “[Measures of
-    Location](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Location](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Read the linked section above on descriptors of
     averages.  Note that there are other descriptors (besides the mean
@@ -163,12 +163,12 @@ Upon successful completion of this unit, the student will be able to:
     “Measures of Scale”**
     Link: NIST/SEMATECH’s e-Handbook of Statistical Methods (2010):
     “[Measures of
-    Scale](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Scale](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Read the linked section above, which presents
     descriptors of width.  The most commonly used descriptors are
@@ -181,12 +181,12 @@ Upon successful completion of this unit, the student will be able to:
     “Measures of Skewness and Kurtosis”**
     Link:NIST/SEMATECH’s e-Handbook of Statistical Methods (2010):
     “[Measures of Skewness and
-    Kurtosis](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Kurtosis](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Read this section on the higher moments of a
     distribution.  Under what circumstances might the higher moments be
@@ -199,12 +199,12 @@ Upon successful completion of this unit, the student will be able to:
     “Normal Distribution”**
     Link: NIST/SEMATECH’s e-Handbook of Statistical Methods (2010):
     “[Normal
-    Distribution](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Distribution](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Read the linked section on the properties of the
     Normal or Gaussian distribution.  Pay attention to the significance
@@ -220,7 +220,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Simon-Fraser University: Stephen Lower’s *Chem1 General
     Chemistry Virtual Textbook*: [“The Meaning of Measure: Dealing with
     Error and Uncertainty in Measured
-    Values”](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.4.pdf)(PDF)  
+    Values”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.4.pdf)(PDF)  
         
      Instructions: Review this section, ensuring that you are able to
     distinguish between random error, systematic error, accuracy, and
@@ -241,7 +241,7 @@ Upon successful completion of this unit, the student will be able to:
     in Experimental Physical Science”**
     Link: University of Toronto: David Harrison’s “[Error Analysis in
     Experimental Physical
-    Science](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.5.pdf)”
+    Science](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.5.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above.  Answer questions
@@ -260,12 +260,12 @@ id="1.6"></span> 
     “How Are Estimates of the Unknown Parameters Obtained?”**
     Link: NIST/SEMATECH’s e-Handbook of Statistical Methods (2010):
     “[How Are Estimates of the Unknown Parameters
-    Obtained?](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Obtained?](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: Read this section and the links titled “Least
     Squares” and “Weighted Least Squares.”  This information may seem
@@ -281,7 +281,7 @@ id="1.7.1"></span> 
     “Descriptive Statistics”**
     Link: College of St.  Benedict and Saint John’s University:
     “[Descriptive
-    Statistics](http://www.saylor.org/site/wp-content/uploads/2011/07/ME301-1.7.1.pdf)”
+    Statistics](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.7.1.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above.  Perform the
