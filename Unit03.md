@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 1: Basic Concepts
     of Electricity”**
     Link: All About Circuits: “[Volume 1, Chapter 1: Basic Concepts of
-    Electricity](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Electricity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read Chapter 1.  You may skim this material if you
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.2.1 Resistors** <span id="3.2.1"></span> 
 -   **Reading: All About Circuits: “Volume 1, Chapter 2: OHM’s LAW”**
     Link: All About Circuits: “[Volume 1, Chapter 2: OHM’s
-    LAW](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    LAW](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read Chapter 2.  Again, you may skim the chapter if
@@ -91,7 +91,7 @@ Upon successful completion of this unit, the student will be able to:
     Impedance – Inductive”**
     Link: All About Circuits: “[Volume 2, Chapter 3: Reactance and
     Impedance --
-    Inductive](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Inductive](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF)  
         
      Instructions: Read Chapter 3.  You have already read Chapter 1 on
@@ -108,7 +108,7 @@ Upon successful completion of this unit, the student will be able to:
     Impedance – Inductive”**
     Link: All About Circuits: “[Volume 2, Chapter 4: Reactance and
     Impedance --
-    Inductive](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Inductive](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF)  
         
      Instructions: Read Chapter 4.  You may find the section on
@@ -128,7 +128,7 @@ Upon successful completion of this unit, the student will be able to:
     “Current Divider Circuits”**
     Link: All About Circuits: “Volume 1, Chapter 6: [Divider Circuits
     and Kirchoff’s
-    Laws](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf):”
+    Laws](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf):”
     (PDF) “Voltage Divider Circuits” and “Current Divider Circuits”   
         
      Instructions: A firm grasp of the concept behind and applications
@@ -144,7 +144,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 6: Kirchoff’s
     Current Law”**
     Link: All About Circuits: “[Volume 1, Chapter 6: Kirchoff’s Current
-    Law](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Law](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and practice
@@ -159,7 +159,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 6: Kirchoff’s
     Voltage Law”**
     Link: All About Circuits: “[Volume 1, Chapter 6: Kirchoff’s Voltage
-    Law](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Law](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)   
         
      Instructions: Read the linked section above and practice
@@ -174,7 +174,7 @@ Upon successful completion of this unit, the student will be able to:
     and Test Equipment”**
     Link: All About Circuits: [“Volume 6, Chapter 2: Basic Concepts and
     Test
-    Equipment”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf) (PDF)  
+    Equipment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf) (PDF)  
         
      Instructions: Read the linked section above.  At this stage, you
     should skim through the material and gather materials together for
@@ -190,7 +190,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 3, Chapter 3: Diodes and
     Rectifiers”**
     Link: All About Circuits: “[Volume 3, Chapter 3: Diodes and
-    Rectifiers](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-3.pdf)”
+    Rectifiers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-3.pdf)”
     (PDF)  
         
      Instructions: Read the section linked above and perform
@@ -206,7 +206,7 @@ Upon successful completion of this unit, the student will be able to:
     Active Devices”**
     Link: All About Circuits: “[Volume 3, Chapter 1: Amplifiers and
     Active
-    Devices](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-3.pdf)”(PDF)  
+    Devices](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-3.pdf)”(PDF)  
         
      Instructions: Read the linked section above.  You may wish to pay
     particular attention to the definition and use of the unit decibel
@@ -220,7 +220,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.5.3 Filters** <span id="3.5.3"></span> 
 -   **Reading: All About Circuits: “Volume 2, Chapter 8: Filters”**
     Link: All About Circuits: “[Volume 2, Chapter 8:
-    Filters](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Filters](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF)  
         
      Instructions: Read the linked section and ask yourself why analog
@@ -238,7 +238,7 @@ id="3.6.1"></span> 
 -   **Reading: All About Circuits: “Volume 6, Chapter 2: Voltmeter
     Usage”**
     Link: All About Circuits: “[Volume 6, Chapter 2: Voltmeter
-    Usage](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
+    Usage](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and perform
@@ -253,7 +253,7 @@ id="3.6.1"></span> 
 -   **Reading: All About Circuits: “Volume 6, Chapter 2: Ohmmeter
     Usage”**
     Link: All About Circuits: “[Volume 6, Chapter 2: Ohmmeter
-    Usage](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
+    Usage](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and perform
@@ -268,7 +268,7 @@ id="3.6.1"></span> 
 -   **Reading: All About Circuits: “Volume 6, Chapter 2: Ammeter
     Usage”**
     Link: All About Circuits: “[Volume 6, Chapter 2: Ammeter
-    Usage](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
+    Usage](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and perform
@@ -282,9 +282,9 @@ id="3.6.1"></span> 
 -   **Reading: All About Circuits: “Volume 6, Chapter 2: A Very Simple
     Circuit” and “Circuit with a Switch”**
     Link: All About Circuits: “[Volume 6, Chapter 2: A Very Simple
-    Circuit](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
+    Circuit](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
     (PDF) and “[Circuit with a
-    Switch](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
+    Switch](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and perform
@@ -301,11 +301,11 @@ id="3.6.2"></span> 
     Power Supply,” “Sensitive Audio Detector,” and “Capacitor Charging
     and Discharging”**
     Link: All About Circuits: “[Volume 6, Chapter 4: Transformer – Power
-    Supply](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
+    Supply](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
     (PDF) “[Sensitive Audio
-    Detector](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
+    Detector](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf),”
     (PDF) and “[Capacitor Charging and
-    Discharging](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
+    Discharging](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-6.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above and perform

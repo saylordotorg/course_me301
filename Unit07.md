@@ -65,7 +65,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Wikibooks: *The Free High School Science Texts: A Textbook for
     High School Students Studying Physics*: “[Newtonian Gravitation/Mass
     and
-    Weight](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-7.1.2.pdf)”
+    Weight](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-7.1.2.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above.  Calculate your mass
@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 9: Strain
     Gauges”**
     Link: All About Circuits: “[Volume 1, Chapter 9: Strain
-    Gauges](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Gauges](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read this section and consider the following issues:
@@ -102,7 +102,7 @@ Upon successful completion of this unit, the student will be able to:
     Chemistry Virtual Textbook: “Observable Properties of Gases”**
     Link: Simon-Fraser University: Stephen Lower’s *Chem1 General
     Chemistry Virtual Textbook*: “[Observable Properties of
-    Gases](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-7.2.1.pdf)”
+    Gases](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-7.2.1.pdf)”
     (PDF)  
         
      Instructions: Review this first chapter.  Calculate atmospheric
@@ -123,9 +123,9 @@ system pressure minus some reference (atmospheric pressure).*
 -   **Reading: NASA Glenn Research Center’s “Bernoulli’s Equation” and
     “Pitot-Static Tube”**
     Link: NASA Glenn Research Center’s “[Bernoulli’s
-    Equation](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-7.2.2.pdf)”
+    Equation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-7.2.2.pdf)”
     (PDF) and “[Pitot-Static
-    Tube](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-7.2.2.pdf)”
+    Tube](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-7.2.2.pdf)”
     (PDF)  
         
      Instructions: Read the two web pages linked above and consider the

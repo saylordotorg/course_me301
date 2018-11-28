@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
     Measurement”**
     Link: Simon-Fraser University: Stephen Lower’s *Chem1 General
     Chemistry Virtual Textbook*: “[Understanding the Units of Scientific
-    Measurement](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.4.pdf)”
+    Measurement](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.4.pdf)”
     (PDF)  
         
      Instructions: Review this chapter, focusing on the short section on
@@ -71,7 +71,7 @@ makes use of Vernier scales.*
 -   **Reading: University of Toronto: David Harrison’s “Reading a
     Vernier Caliper”**
     Link: University of Toronto: David Harrison’s “[Reading a Vernier
-    Caliper](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-5.2.pdf)”(PDF)  
+    Caliper](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-5.2.pdf)”(PDF)  
         
      Instructions: Read this discussion of the Vernier scale and test
     your knowledge with the Java applet.  If you have access to a set of
