@@ -42,7 +42,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 9: Analog and
     Digital Signals”**
     Link:  All About Circuits: “[Volume 1, Chapter 9: Analog and Digital
-    Signals](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Signals](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions:  This section should provide you with enough
@@ -60,9 +60,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 2, Chapter 1: Basic AC
     Theory” and “Volume 2, Chapter 7: Mixed-Frequency Signals”**
     Link: All About Circuits: “[Volume 2, Chapter 1: Basic AC
-    Theory](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Theory](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF) and “[Volume 2, Chapter 7: Mixed-Frequency
-    Signals](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Signals](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF)  
         
      Instructions: These sections introduce alternating current (AC)
@@ -92,9 +92,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 9: Current Signal
     Systems” and “Voltage Signal Systems”**
     Link: All About Circuits: “[Volume 1, Chapter 9: Current Signal
-    Systems](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Systems](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     and “[Voltage Signal
-    Systems](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Systems](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF)  
         
      Instructions: Read these sections; they introduce the ideas and
@@ -111,7 +111,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.1.3 Filtering** <span id="4.1.3"></span> 
 -   **Reading: All About Circuits: “Volume 2, Chapter 8: Filters”**
     Link: All About Circuits: “[Volume 2, Chapter 8:
-    Filters”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)(PDF)  
+    Filters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)(PDF)  
         
      Instructions: Read the linked chapter on filters.  The text is
     sufficiently self-explanatory and contains an introductory
@@ -128,9 +128,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: All About Circuits: “Volume 1, Chapter 8: DC Bridge
     Circuits” and “Volume 2, Chapter 12: AC Bridge Circuits”**
     Link: All About Circuits: “[Volume 1, Chapter 8: DC Bridge
-    Circuits](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
+    Circuits](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.1.pdf)”
     (PDF) and “[Volume 2, Chapter 12: AC Bridge
-    Circuits](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
+    Circuits](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-2.pdf)”
     (PDF)  
         
      Instructions: Read the linked sections above and perform
@@ -148,7 +148,7 @@ Upon successful completion of this unit, the student will be able to:
     to Digital-Analog Conversion”**
     Link: All About Circuits: “[Volume 4, Chapter 13: Introduction to
     Digital-Analog
-    Conversion](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-4.pdf)”
+    Conversion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-4.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above for an introduction to
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
     Considerations of ADC Circuits”**
     Link: All About Circuits: [“Volume 4, Chapter 13: Practical
     Considerations of ADC
-    Circuits](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-vol-4.pdf)”
+    Circuits](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-vol-4.pdf)”
     (PDF)  
         
      Instructions: Read the linked section.  Focus on the two topics
@@ -219,7 +219,7 @@ id="4.4"></span> 
 **Units 3 and 4 Assessment** <span id="4.5"></span> 
 -   **Assessment: The Saylor Foundation's "ME301: Units 3 and 4 Quiz"**
     Link: The Saylor Foundation's
-    ["](https://resources.saylor.org/archived/wp-content/uploads/2011/02/ME301-UA-3and4-FINAL.pdf)[ME301:
+    ["](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/ME301-UA-3and4-FINAL.pdf)[ME301:
     Units 3 and 4
     Quiz](http://school.saylor.org/mod/quiz/view.php?id=918)"  
       

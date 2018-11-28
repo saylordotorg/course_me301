@@ -64,7 +64,7 @@ a function of temperature.*
 -   **Reading: University of California – Riverside: Beverly Lynds’
     “About Temperature”**
     Link: University of California – Riverside: Beverly Lynds’ “[About
-    Temperature](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-8.2-1.pdf)”
+    Temperature](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-8.2-1.pdf)”
     (PDF)  
         
      Instructions: Read the linked section above.  The discussion is

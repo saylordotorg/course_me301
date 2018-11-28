@@ -50,12 +50,12 @@ Upon successful completion of this unit, the student will be able to:
     “A Gallery of Graphical Techniques”**
     Link: NIST/SEMATECH’s e-Handbook of Statistical Methods (2010): “[A
     Gallery of Graphical
-    Techniques](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1.pdf)”
+    Techniques](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME301-1.1-National-Institute-of-Standards.epub)  
       
      Instructions: If in need of inspiration for graphical analysis and
     presentation of data, it may be helpful to refer to the linked
